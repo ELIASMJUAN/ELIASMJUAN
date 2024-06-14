@@ -21,8 +21,9 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 ### 🤝🏻 &nbsp;Connect with Me
-<P>https://wa.me/+5492634801328</P>
-<p>https://t.me/lib.juan</p>
+
+[![Static Badge](https://img.shields.io/badge/WhatsApp-verde)](https://wa.me/+5492634801328")
+[![Static Badge](https://img.shields.io/badge/Telegram-blue)](https://t.me/lib.juan)
 <!---
 ELIASMJUAN/ELIASMJUAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
